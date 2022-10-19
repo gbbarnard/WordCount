@@ -1,0 +1,6 @@
+java
+5
+world
+4
+hello
+2
